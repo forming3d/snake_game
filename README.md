@@ -1,4 +1,4 @@
-# 🐍 Hex Snake Mobile
+# 🐍 Hex Snake 
 
 Un juego clásico de Snake con un giro único: juega dentro de un hexágono rotativo con física realista y efectos visuales impresionantes.
 
@@ -12,7 +12,6 @@ Un juego clásico de Snake con un giro único: juega dentro de un hexágono rota
 - **Física realista**: Las recompensas rebotan dentro del hexágono con gravedad y rebote
 - **Efectos visuales**: Partículas, glow, sombras y efectos de luz dinámicos
 - **Sistema de puntuación**: Rastrea tu score y mejor puntuación personal
-- **Diseño móvil**: Optimizado para dispositivos móviles en orientación vertical
 - **Arte pixel**: Interfaz con estilo pixel art retro
 
 ## 🎮 Cómo Jugar
